@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/HKUST-NLP), Hong Kong University of Science and Technology (HKUST), advised by Professor Junxian He. My research focuses on natural language processing and machine learning. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), advised by Professor Junxian He. My research focuses on natural language processing and machine learning. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 Research Interests
 ======
@@ -37,7 +37,7 @@ Publications
 - Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**. *NeurIPS 2023*.
 - Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. **Composing Parameter-Efficient Modules with Arithmetic Operations**. *NeurIPS 2023*.
 
-A list of my publications is also available on the [Publications](/publications/) page.
+A list of my publications is also available on the [Publications](publications/) page.
 
 Skills
 ======
